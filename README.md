@@ -8,3 +8,5 @@ On both files, each row contains a categorical column of the "song genre" and 11
 Objective of this project is to build a multiclass classification problem, which will be able to predict the "song genre" using as many of the remaining numerical columns as necessary. The performance metric used, will be accuracy, and the goal will be to build a ML model with the highest accuracy.
 
 This is a supervised learning problem, meaning that we will use already labeled data to train our model and predict results.
+
+To review this project, use the URL: https://www.kaggle.com/competitions/cs9856-spotify-classification-problem-2023 which relocates you to the Kaggle website.
