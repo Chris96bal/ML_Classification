@@ -1,4 +1,4 @@
-# ML_Classification
+# Spotify Classification Problem 2023
 This project is about a multiclass classification problem resolved with Machine Learning techniques.
 
 551 records of different songs were split into 2 separate files called "CS98XClassificationTrain" and "CS98XClassificationTest". The first file contains the training set containing the first 438 records of songs, while the second file contains the testing set of the remaining 113 records respectively.
