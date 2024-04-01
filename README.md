@@ -10,3 +10,8 @@ Objective of this project is to build a multiclass classification problem, which
 This is a supervised learning problem, meaning that we will use already labeled data to train our model and predict results.
 
 To review this project, use the URL: https://www.kaggle.com/competitions/cs9856-spotify-classification-problem-2023 which relocates you to the Kaggle website.
+
+Acknowledgements
+Thanks to Nicolas Carbone for providing the original dataset.
+
+https://www.kaggle.com/cnic92/spotify-past-decades-songs-50s10s
