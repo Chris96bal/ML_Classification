@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 train_file = "CS98XClassificationTrain.csv"
 test_file = "CS98XClassificationTest.csv"
 
