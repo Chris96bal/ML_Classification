@@ -16,4 +16,4 @@ Thanks to Nicolas Carbone for providing the original dataset.
 
 https://www.kaggle.com/cnic92/spotify-past-decades-songs-50s10s
 
-Finally, it is important to mention that no modifications will be performed to the "CS98XRegressionTest" file, as in real life scenarios it will have been impossible to have access of it.
+Finally, it is important to mention that no modifications will be performed to the "CS98XRegressionTest" file, as in real life scenarios it will have been impossible to have access το it.
